@@ -1,6 +1,6 @@
 # Lecture materials
 
-I used these slides at my lectures during the study groups and bootcamps at inzva, a tech community dedicated to artificial intelligence and algorithms based in Istanbul, supported by an education foundation. 
+I used these slides at my lectures during the study groups and bootcamps at [inzva](https://inzva.com), a tech community dedicated to artificial intelligence and algorithms based in Istanbul, supported by an education foundation. 
 Until now I have two slides. Both are contain same topics. New is always better but you can check the old one as well.
 
 ## Additional resources
